@@ -3,7 +3,7 @@ variable "instance_name" {
 }
 
 variable "key_name" {
-  default = "my-new-terraform"    # Names of key in aws
+  default = "Krishna"    # Names of key in aws
 }
 
 
